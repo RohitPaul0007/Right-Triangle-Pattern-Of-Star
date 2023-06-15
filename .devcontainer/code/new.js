@@ -1,3 +1,4 @@
+//Right-Triangle-Pattern-Of-Star
 let n=5;
 let string = "";
 for (let i = 1; i <= n; i++) {
